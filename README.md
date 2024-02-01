@@ -26,7 +26,7 @@ To explore the project:
 ## Dashboard View
 
 
-- PNG File: [[Link to PNG File](https://github.com/TPrasad98/COFFE_SALES_ANALYSIS_USING_EXCEL/blob/main/Screenshot%202024-02-01%20174512.png)
+- PNG File: [(https://github.com/TPrasad98/COFFE_SALES_ANALYSIS_USING_EXCEL/blob/main/Screenshot%202024-02-01%20174512.png)]
 
 
 
