@@ -26,7 +26,7 @@ To explore the project:
 ## Dashboard View
 
 
-- PNG File: [(https://github.com/TPrasad98/COFFE_SALES_ANALYSIS_USING_EXCEL/blob/main/Screenshot%202024-02-01%20174512.png)]
+![dashboardview](https://github.com/TPrasad98/music_store_data_analysis_sql_project/blob/main/MusicDatabaseSchema.png)
 
 
 
